@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/ic_launcher.png",
+        "source": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/src/main/res/drawable-ldpi/ic_launcher.png"
+    }
+]

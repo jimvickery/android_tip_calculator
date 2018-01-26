@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/res/merged/debug/layout/activity_main_twopane_land.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/src/main/res/layout/activity_main_twopane_land.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/res/merged/debug/layout/activity_main_twopane_port.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/src/main/res/layout/activity_main_twopane_port.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/build/intermediates/res/merged/debug/layout/fragment_tip_calculator.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/src/main/res/layout/fragment_tip_calculator.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/build/intermediates/res/merged/debug/layout/activity_main_twopane_port.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/src/main/res/layout/activity_main_twopane_port.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/res/merged/debug/layout/fragment_tip_calculator.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/src/main/res/layout/fragment_tip_calculator.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/build/intermediates/res/merged/debug/layout/activity_settings.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/src/main/res/layout/activity_settings.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/build/intermediates/res/merged/debug/layout/activity_main_twopane_land.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/src/main/res/layout/activity_main_twopane_land.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/src/main/res/layout/activity_main.xml"
+    }
+]

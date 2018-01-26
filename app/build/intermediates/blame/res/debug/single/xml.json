@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/src/main/res/xml/preferences.xml"
+    }
+]

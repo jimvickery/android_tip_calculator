@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/build/intermediates/res/merged/debug/menu/fragment_tip_calculator.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/src/main/res/menu/fragment_tip_calculator.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/res/merged/debug/menu/fragment_tip_calculator.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/src/main/res/menu/fragment_tip_calculator.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/build/intermediates/res/merged/debug/menu/fragment_tip_calculator_twopane.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/TipCalculator/app/src/main/res/menu/fragment_tip_calculator_twopane.xml"
+    },
+    {
+        "merged": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/res/merged/debug/menu/fragment_tip_calculator_twopane.xml",
+        "source": "/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/src/main/res/menu/fragment_tip_calculator_twopane.xml"
+    }
+]

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="adbd163adbf1963f53c63473e607ea38fabee5b6">
+        <dex dex="/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_208eafb2d0fb3dcf90970c27b03efb84c537406a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.1"
+        sha1="09bed1b919d8e6d5d5ec6347de57d4459f6093e3">
+        <dex dex="/Users/jimvickery/MyAndroidApps/ch09_ex3_TipCalculator_sol/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_e046126ec92f8d493aa0dca5837bc50e9886b23a/classes.dex" />
+    </item>
+
+</items>
