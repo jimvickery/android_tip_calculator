@@ -12,4 +12,4 @@ To run and/or modify the project:
 Also, Android users can download this calculator free on their android devices at:
 https://play.google.com/store/apps/details?id=com.investprofits.jimvickery.tipcalculator
 
-![Alt text](relative/path/to/tip_calc.png?raw=true "Title")
+![Alt text](tip_calc.png?raw=true "Title")
