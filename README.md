@@ -1,5 +1,4 @@
 # Android Tip Calculator
-It was built in Java using the Android Studio IDE.
 
 This is a Restaurant Tip Calculator built using Java inside of Android Android Studio. It's available on Google Play Store at https://play.google.com/store/apps/details?id=com.investprofits.jimvickery.tipcalculator
 <br><br>
