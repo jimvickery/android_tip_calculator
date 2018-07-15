@@ -24,6 +24,6 @@ To run and/or modify the project:
 
 
 
-Also, Android users can download this calculator free on their android devices at:
+### Android users can download this calculator free on their android devices at:
 https://play.google.com/store/apps/details?id=com.investprofits.jimvickery.tipcalculator
 
